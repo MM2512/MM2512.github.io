@@ -43,7 +43,7 @@ about: "Is something not working as expected?"
   functionality you tried to use is supposed to work.
 -->
 
-## Steps to reproduce the behavior
+## Steps to reproduce the behaviorr
 
 <!--
   Describe the steps you took for this problem to exist. Such as: you installed
